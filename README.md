@@ -109,7 +109,7 @@ Let's get you up and running with the stable version of Bolt.DIY!
 
 ### Option 1: Node.js
 
-Node.js is required to run the application.
+Use patched Node.js 22.23.4 from `.nvmrc` / `.node-version`; CI and Docker select the same release.
 
 1. Visit the [Node.js Download Page](https://nodejs.org/en/download/)
 2. Download the "LTS" (Long Term Support) version for your operating system
